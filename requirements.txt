@@ -1,0 +1,6 @@
+pandas
+numpy
+torch
+sentence-transformner
+matplotlib
+plotlib
