@@ -10,6 +10,10 @@
     - Final Submission Date: 4th July 2024
 ##### HTML Link: [Hackathon Link](https://www.isb.edu/en/Hackathon-2024.html)
 
+### External Links:
+- https://peerj.com/articles/cs-881/#fig-6
+
+
 Team Members:
 - Dhanesh 
 - Srihari Kodam
