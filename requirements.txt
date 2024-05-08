@@ -1,6 +1,6 @@
 pandas
 numpy
 torch
-sentence-transformner
+sentence-transformers
 matplotlib
-plotlib
+plotly
