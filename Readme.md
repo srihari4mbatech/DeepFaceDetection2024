@@ -1,4 +1,4 @@
-#### This is repo for collaborative of Hackathon 2024
+#### This is repo for collaboration of Hackathon 2024
 
 ##### Description:
 
@@ -15,8 +15,8 @@
 
 
 Team Members:
-- Dhanesh 
+- Dhanush G
 - Srihari Kodam
 - Ankitha
-- Raghavendra 
+- Raghavendra S
 - Divya
